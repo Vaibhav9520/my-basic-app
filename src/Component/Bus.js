@@ -1,14 +1,29 @@
-import React from 'react'
+// import React from "react";
+// import Cell from "./Cell";
 
-export default function Bus() {
-  return (
-    <div>
-        
-        <h1>This is Bus in H1</h1>
-        <h2>This is Bus in H2</h2>
-        <h3>This is Bus in H3</h3>
-        <p>This is Bus in p tag</p>
-    </div>
-        
-  )
-}
+// export default function Bus() {
+//     const cost = "120000";
+//     const companyName = "Apple";
+//     return (
+//         <>
+//             <h1>Functional Component</h1>  
+//             <Cell cost={cost} model={'Iphone15'} compamyName={companyName}/>
+             
+//         </>
+//     );
+// }
+
+// import React from "react";
+// import Cell from "./Cell";
+
+// export default function Bus() {
+   
+//     return (
+//         <>
+//             <h1>Functional Component</h1>  
+//             <Cell cost={'120,000'} model={'Iphone15'} compamyName={'Apple'}/>
+             
+//         </>
+//     );
+// }
+
