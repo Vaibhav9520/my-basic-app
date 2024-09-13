@@ -1,6 +1,24 @@
-.bigboss{
-    color: rgb(175, 179, 171);
-    padding: 40px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
+.player1{
+    background-color: blue;
+}
+.player2{
+    background-color: skyblue;
+}
+.player3{
+    background-color: green;
+}
+.player4{
+    background-color: yellow;
+}
+.fplayer1{
+    background-color: blue;
+}
+.fplayer2{
+    background-color: skyblue;
+}
+.fplayer3{
+    background-color: green;
+}
+.fplayer4{
+    background-color: yellow;
 }
