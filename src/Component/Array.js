@@ -1,20 +1,3 @@
-// import React from 'react';
-// import ArrayOperation from './ArrayOperation';
-
-// const Array = () => {
-//   const numbersArray = [3, 9, 2, 6, 7, 10, 1];
-
-//   return (
-//     <div>
-//       <h1>Array Operations</h1>
-//       <ArrayOperation numbers={numbersArray} />
-//     </div>
-//   );
-// };
-
-// export default Array;
-
-
 import React from 'react';
 
 const ArrayOperations = ({ numbers }) => {
