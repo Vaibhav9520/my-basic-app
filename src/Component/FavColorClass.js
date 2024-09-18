@@ -3,6 +3,7 @@ import React, { Component } from 'react'
 export default class FavColorClass extends Component {
     constructor(){
         super();
+        
         this.state = {color:"Red"};
     }
   render() {

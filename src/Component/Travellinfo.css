@@ -1,0 +1,41 @@
+/* Table Styling */
+.travel-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+  }
+  
+  .travel-table th, .travel-table td {
+    border: 1px solid #dddddd;
+    padding: 12px 15px;
+  }
+  
+  .travel-table th {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  .travel-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .travel-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  /* Button Styling */
+  .book-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .book-btn:hover {
+    background-color: #45a049;
+  }
+  
