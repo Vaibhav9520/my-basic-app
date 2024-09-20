@@ -1,7 +1,7 @@
 import React from "react";
 import TravelRender from "./TravelRender"
 
-const Travel = () =>{
+function Travel(){
 
     const travelDatas = [
         { destination: 'Paris', description: 'The city of light.', price: '$200' },

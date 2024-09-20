@@ -11,3 +11,23 @@ function Favcolor() {
 }
 
 export default Favcolor;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
