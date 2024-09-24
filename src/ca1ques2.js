@@ -15,6 +15,7 @@ const App = () => {
 
 export default App;
 
+
 // Contest.js
 import React from 'react';
 import PropTypes from 'prop-types';
